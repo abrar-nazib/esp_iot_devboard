@@ -1,0 +1,3 @@
+# Reference documents and CAD models are opaque source assets.
+*.pdf -text
+*.step -text

@@ -1,0 +1,7 @@
+# KiCad workstation state and crash-recovery artifacts
+# These are regenerated locally and must not be shared as design source.
+*.kicad_prl
+[#]auto_saved_files#
+_autosave-*.kicad_sch
+~*.kicad_sch.lck
+esp_iot_devboard-backups/
