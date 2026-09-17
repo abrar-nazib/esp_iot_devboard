@@ -5,3 +5,4 @@
 _autosave-*.kicad_sch
 ~*.kicad_sch.lck
 esp_iot_devboard-backups/
+*-bak
