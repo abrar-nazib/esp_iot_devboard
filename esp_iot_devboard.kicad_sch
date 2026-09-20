@@ -4703,6 +4703,16 @@
 	)
 	(wire
 		(pts
+			(xy 227.33 138.43) (xy 234.95 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "afe24871-4932-46f6-abf9-c85030655d1e")
+	)
+	(wire
+		(pts
 			(xy 231.14 66.04) (xy 251.46 66.04)
 		)
 		(stroke
@@ -5020,6 +5030,16 @@
 			(justify left bottom)
 		)
 		(uuid "0aab7e20-f145-4dcd-af06-60de28fb9cca")
+	)
+	(label "VBUS"
+		(at 234.95 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "138743b7-6d53-4544-b9a4-39ea9d717937")
 	)
 	(label "USB_DN"
 		(at 78.74 49.53 0)
@@ -9466,6 +9486,16 @@
 		(pin "USB_DP" input
 			(at 227.33 135.89 0)
 			(uuid "d871c2ce-13ba-4af8-bb4c-97b871f07079")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "VBUS" input
+			(at 227.33 138.43 0)
+			(uuid "18fa5c2b-1c78-4c75-873a-06615937ec40")
 			(effects
 				(font
 					(size 1.27 1.27)
